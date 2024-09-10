@@ -39,3 +39,7 @@ Descrição do desafio: Você irá criar um relatório mais elaborado com base n
     Caso você tenha familiaridade fique livre para utilizar outros artifícios nos botões e outros
 
     Submenta seu projeto através do link no github
+
+![1](https://github.com/user-attachments/assets/02826db3-0178-4ab1-8e76-31c9cbcf1d00)
+
+![2](https://github.com/user-attachments/assets/d19145ba-e525-4a41-b1e3-d197f521bc8c)
